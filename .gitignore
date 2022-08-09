@@ -1,3 +1,4 @@
 /.vs
 /RemoteControl/bin
 /RemoteControl/obj
+/SensorReader/obj/Debug/*.cache
